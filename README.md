@@ -1,4 +1,4 @@
-'''Simple RC Car using Arduino'''
+**Simple RC Car using Arduino**
 
 Using infared signals the car can be controlled using simple selection statements. Unfortunately I did not have access to a 3D printer, hence my DIY work!
 
